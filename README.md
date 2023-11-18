@@ -6,9 +6,12 @@ This assessment necessitated an image classification task to distinguish between
 
 ## Directory Structure
 - [Imran_Assesment1.py](https://github.com/Imraanjaafar/Computer-Vision-Image-Classification-for-Cracks-or-No-Cracks-Dataset/blob/main/Imran_Assesment1.py) : Contains code for Problem Formulation, Data Preparation, Model Development and Model Deployment
+
 ## Results
 The model achieved an accuracy of 96.16% on the test set, which demonstrates its effectiveness in classifying concrete images with and without cracks.
 
 ## Model Architecture
 
+The model design utilizes the ResNet50 architecture that includes the layers of the model, the output shape of each layer, and the number of parameters in each layer.
+Presented below is an overview of the model's architecture:
 ![model](https://github.com/Imraanjaafar/Computer-Vision-Image-Classification-for-Cracks-or-No-Cracks-Dataset/assets/151133555/5122dcb3-8ac0-4fb4-90fb-14587e9001ea)
