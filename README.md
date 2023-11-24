@@ -7,11 +7,11 @@ This assessment necessitated an image classification task to distinguish between
 ## Directory Structure
 - [Imran_Assesment1.py](https://github.com/Imraanjaafar/Computer-Vision-Image-Classification-for-Cracks-or-No-Cracks-Dataset/blob/main/Imran_Assesment1.py)
 
-##Import Packages:
+##Import Packages
 
 - The necessary libraries are imported, including TensorFlow, Keras, NumPy, Matplotlib, and others.
 
-##Data Loading:
+##Data Loading
 
 - The code specifies paths for training, validation, and test datasets and sets batch size and image size.
 - It loads datasets using tf.keras.utils.image_dataset_from_directory for training, validation, and test sets.
