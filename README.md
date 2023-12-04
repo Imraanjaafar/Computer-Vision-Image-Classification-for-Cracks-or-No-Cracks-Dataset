@@ -7,7 +7,7 @@ This assessment necessitated an image classification task to distinguish between
 ## Directory Structure
 - [Imran_Assesment1.py](https://github.com/Imraanjaafar/Computer-Vision-Image-Classification-for-Cracks-or-No-Cracks-Dataset/blob/main/Imran_Assesment1.py)
 
-This code implements a transfer learning pipeline using TensorFlow and Keras for image classification. Let's break down the code into different sections:
+This repository contains a TensorFlow implementation for transfer learning using the ResNet50 architecture. The code demonstrates a step-by-step process for building a convolutional neural network (CNN) model for image classification, starting from loading the dataset to fine-tuning the model.
 
 ### Import Packages
 
